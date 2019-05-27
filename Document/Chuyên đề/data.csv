@@ -1,0 +1,20 @@
+RAM,CARD,GIA,MANHINH,SELECT
+4,Intel graphics,10000000,15.6,Yes
+8,Radeo,20000000,15.6,Yes
+16,Intel graphics,15000000,14,No
+4,Onboard,16000000,14,Yes
+8,Radeo,15500000,15.6,Yes
+4,Intel graphics,9500000,14,No
+8,Intel graphics,16500000,15.6,Yes
+16,Radeo,36000000,15.6,No
+4,Onboard,14000000,14,Yes
+4,Intel graphics,15000000,14,Yes
+8,Radeo,18000000,14,No
+8,Onboard,17500000,14,Yes
+4,Onboard,8600000,14,No
+16,Intel graphics,21000000,15.6,Yes
+16,Radeo,32000000,14,Yes
+4,Intel graphics,16500000,14,No
+8,Radeo,19000000,15.6,No
+4,Onboard,15500000,15.6,Yes
+8,Intel graphics,22000000,14,No
